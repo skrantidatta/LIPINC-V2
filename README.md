@@ -1,4 +1,5 @@
-# Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies
+# Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies 
+# LipSyncTimit Dataset : A Multimodal Dataset for LipSyncing DeepFake Forensics
 Soumyya Kanti Datta, Shan Jia, Siwei Lyu
 
 
@@ -6,6 +7,10 @@ Soumyya Kanti Datta, Shan Jia, Siwei Lyu
 Deepfakes are AI-generated media in which the original content is digitally altered to create convincing but manipulated images, videos, or audio. Among the various types of deepfakes, lip-syncing deepfakes are one of the most challenging deepfakes to detect. In these videos, a person's lip movements are synthesized to match altered or entirely new audio using AI models. Therefore, unlike other types of deepfakes, the artifacts in lip-syncing deepfakes are confined to the mouth region, making them more subtle and, thus harder to discern. In this paper, we introduce a novel approach utilizing a combination of Vision Temporal Transformer with multihead cross-attention to detect lip-syncing deepfakes by identifying spatiotemporal inconsistencies in the mouth region. These inconsistencies appear across adjacent frames and persist throughout the video. Our model can successfully capture these subtle spatiotemporal irregularities, achieving state-of-the-art performance on several benchmark deepfake datasets.
 
 <img src='./Images/LIPINCV2.png' width=900>
+
+
+
+
 
 # Prerequisites
 - `Python 3.10` 
