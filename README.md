@@ -14,11 +14,11 @@ LipSyncTimit Dataset includes 202 real videos from the VidTIMIT dataset, which c
 
 <img src='./Images/LipSyncTIMIT1.png' width=900>
 
-# Download
+## Download
 
 If you would like to access the LipSyncTimit Dataset, please fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSeKn-OAlJKcOZTU1k6GXVZZjkIuHbGs3am9ScvqkKE7M35psA/viewform?usp=sharing) . The download link will be sent to you once the form is accepted. If you have any questions, please send email to soumyyak@buffalo.edu
 
-### Dataset Structure
+## Dataset Structure
 Please refer to our paper for details.
 ```
 LipSyncTimit Dataset
@@ -35,6 +35,8 @@ LipSyncTimit Dataset
 |-- LipSyncTimit_compression23 # 3,232 compressed videos with constant rate factors of 23
 |-- LipSyncTimit_compression40 # 3,232 compressed videos with constant rate factors of 40
 ```
+## Privacy Statement
+This dataset is released under the Terms to Use Celeb-DF, which is provided "as it is" and we are not responsible for any subsequence from using this dataset. All original videos of the Celeb-DF dataset are obtained from the Internet which are not property of the authors or the authors’ affiliated institutions. Neither the authors or the authors’ affiliated institution are responsible for the content nor the meaning of these videos. If you feel uncomfortable about your identity shown in this dataset, please contact us and we will remove corresponding information from the dataset.
 
 # Prerequisites
 - `Python 3.10` 
