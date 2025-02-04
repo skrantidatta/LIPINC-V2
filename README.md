@@ -35,8 +35,8 @@ LipSyncTimit Dataset
 |-- LipSyncTimit_compression23 # 3,232 compressed videos with constant rate factors of 23
 |-- LipSyncTimit_compression40 # 3,232 compressed videos with constant rate factors of 40
 ```
-## Privacy Statement
-This dataset is released under the Terms to Use Celeb-DF, which is provided "as it is" and we are not responsible for any subsequence from using this dataset. All original videos of the Celeb-DF dataset are obtained from the Internet which are not property of the authors or the authors’ affiliated institutions. Neither the authors or the authors’ affiliated institution are responsible for the content nor the meaning of these videos. If you feel uncomfortable about your identity shown in this dataset, please contact us and we will remove corresponding information from the dataset.
+## License and Usage Terms
+The LipSyncTIMIT dataset is for non-commercial research purposes only. All original videos and audios in the LipSyncTIMIT dataset are obtained from the VidTIMIT dataset and the LRS2 dataset, respectively. All AI-generated (fake) audios in the LipSyncTIMIT dataset are obtained from the LibriSeVoc dataset. Neither the authors nor their affiliated institutions are responsible for the content or meaning of these videos/audios. You and your affiliated institution must agree not to reproduce, duplicate, publish, copy, sell, trade, resell or exploit any portion of the videos or any derived data from the dataset for any purpose.
 
 # Prerequisites
 - `Python 3.10` 
