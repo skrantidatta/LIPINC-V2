@@ -1,4 +1,4 @@
-# EXPOSING LIP-SYNCING DEEPFAKES FROM MOUTH INCONSISTENCIES
+# Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies
 Soumyya Kanti Datta, Shan Jia, Siwei Lyu
 
 Accepted by ICME 2024
