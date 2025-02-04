@@ -16,7 +16,19 @@ LipSyncTimit Dataset includes 202 real videos from the VidTIMIT dataset, which c
 
 # Download
 
-If you would like to access the LipSyncTimit Datasett, please fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSeKn-OAlJKcOZTU1k6GXVZZjkIuHbGs3am9ScvqkKE7M35psA/viewform?usp=sharing) . The download link will be sent to you once the form is accepted. If you have any questions, please send email to soumyyak@buffalo.edu
+If you would like to access the LipSyncTimit Dataset, please fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSeKn-OAlJKcOZTU1k6GXVZZjkIuHbGs3am9ScvqkKE7M35psA/viewform?usp=sharing) . The download link will be sent to you once the form is accepted. If you have any questions, please send email to soumyyak@buffalo.edu
+
+### Dataset Structure
+```
+LipSyncTimit Dataset
+|- Original Size # 3,232 videos of original size
+  |-RealVideo # 202 Real videos from VidTIMIT dataset
+  |-FakeVideo-OriginalAudio # 1010 Lip-syncing deepfake videos generated using the audio from the real videos in the VidTIMIT dataset to manipulate the real videos from the same dataset.
+  |-FakeVideo-RealAudio # 1010 Lip-syncing deepfake videos generated using the real audio from the LRS2 dataset to manipulate the real videos from the VidTIMIT dataset.
+  |-FakeVideo-FakeAudio # 1010 Lip-syncing deepfake videos generated using the AI generated(fake) audio from the LibriSeVoc dataset to manipulate the real videos from the VidTIMIT dataset.
+|- LipSyncTimit_compression23 # 3,232 compressed videos with constant rate factors of 23
+|- LipSyncTimit_compression40 # 3,232 compressed videos with constant rate factors of 40
+```
 
 # Prerequisites
 - `Python 3.10` 
