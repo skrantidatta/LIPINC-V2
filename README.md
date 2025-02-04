@@ -16,7 +16,7 @@ LipSyncTimit Dataset includes 202 real videos from the VidTIMIT dataset, which c
 
 # Download
 
-If you would like to access the LipSyncTimit Datasett, please fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSeKn-OAlJKcOZTU1k6GXVZZjkIuHbGs3am9ScvqkKE7M35psA/viewform?usp=sharing) . The download link will be sent to you once the form is accepted. If you have any questions, please send email to deepfakeforensics@gmail.com
+If you would like to access the LipSyncTimit Datasett, please fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSeKn-OAlJKcOZTU1k6GXVZZjkIuHbGs3am9ScvqkKE7M35psA/viewform?usp=sharing) . The download link will be sent to you once the form is accepted. If you have any questions, please send email to soumyyak@buffalo.edu
 
 # Prerequisites
 - `Python 3.10` 
