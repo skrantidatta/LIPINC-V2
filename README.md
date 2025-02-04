@@ -80,6 +80,23 @@ and machine intelligence, vol. 44, no. 12, pp. 8717–8727, 2018.
 on Computer Vision and Pattern Recognition, 2023, pp. 904–912.
 
 
+[Diff2Lip] S Mukhopadhyay, S Suri, R T Gadde, and A Shrivastava, “Diff2lip: Audio conditioned diffusion models for lip-synchronization,” in Proceed-
+ings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2024, pp. 5292–5302
+
+
+[Video_Retalking] K Cheng, X Cun, Y Zhang, M Xia, F Yin, M Zhu, X Wang, J Wang, andN Wang, “Videoretalking: Audio-based lip synchronization for talking
+head video editing in the wild,” in SIGGRAPH Asia 2022 Conference Papers, 2022, pp. 1–9.
+
+
+[Wav2lip] KR Prajwal, R Mukhopadhyay, V P Namboodiri, and CV Jawahar, “A lip sync expert is all you need for speech to lip generation in the wild,”
+in Proceedings of the 28th ACM MM, 2020, pp. 484–492
+
+
+[IP-Lap] W Zhong, C Fang, Y Cai, P Wei, G Zhao, L Lin, and G Li, “Identity-preserving talking face generation with landmark and appearance priors,”
+in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 9729–9738.
+
+
+
 
 
 
