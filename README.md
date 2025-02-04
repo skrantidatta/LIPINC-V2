@@ -9,9 +9,9 @@ Deepfakes are AI-generated media in which the original content is digitally alte
 
 
 # LipSyncTimit Dataset : A Multimodal Dataset for LipSyncing DeepFake Forensics
-<img src='./Images/LipSyncTIMIT1.png' width=900>
-LipSyncTimit Dataset includes 202 real videos from theVidTIMIT dataset, which contains recordings of 43 volunteers reciting short sentences, with synchronized audio and visual tracks. We collected real audio samples from the LSR2 dataset, and AI-generated (fake) audio samples were obtained from the LibriSeVoc dataset.
 
+LipSyncTimit Dataset includes 202 real videos from the VidTIMIT dataset, which contains recordings of 43 volunteers reciting short sentences, with synchronized audio and visual tracks. We collected real audio samples from the LSR2 dataset, and AI-generated (fake) audio samples were obtained from the LibriSeVoc dataset.
+<img src='./Images/LipSyncTIMIT1.png' width=900>
 
 # Prerequisites
 - `Python 3.10` 
