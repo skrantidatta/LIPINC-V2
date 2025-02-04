@@ -63,6 +63,13 @@ Please cite our paper in your publications if you use our LIPINC-V2 Detection mo
   year={2025}
 }
 ```
+# Reference
+[LIPINC] S K Datta, S Jia, and S Lyu, “Exposing lip-syncing deepfakes from mouth inconsistencies,” 2024 IEEE International Conference on
+Multimedia and Expo (ICME), pp. 1–6, 2024.
+[VidTIMIT] C Sanderson and B C Lovell, “Multi-region probabilistic histograms for robust and scalable identity inference,” in Advances in biometrics:
+Third international conference, ICB 2009, alghero, italy, june 2-5, 2009. Proceedings 3. Springer, 2009, pp. 199–208.
+[LRS2] T Afouras, J S Chung, A Senior, O Vinyals, and A Zisserman, “Deep audio-visual speech recognition,” IEEE transactions on pattern analysis
+and machine intelligence, vol. 44, no. 12, pp. 8717–8727, 2018.
 
 
 
