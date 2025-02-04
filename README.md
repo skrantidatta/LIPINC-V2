@@ -9,7 +9,7 @@ Deepfakes are AI-generated media in which the original content is digitally alte
 
 
 # LipSyncTimit Dataset : A Multimodal Dataset for LipSyncing DeepFake Forensics
-
+<img src='./Images/LipSyncTIMIT1.png' width=900>
 
 # Prerequisites
 - `Python 3.10` 
