@@ -21,19 +21,19 @@ If you would like to access the LipSyncTimit Dataset, please fill out this [goog
 ### Dataset Structure
 Please refer to our paper for details.
 ```
-**LipSyncTimit Dataset**
-|-- **Original Size** # 3,232 videos of original size
-  |-- **RealVideo** # 202 Real videos from VidTIMIT dataset
-  |-- **FakeVideo-OriginalAudio** # 1010 Lip-syncing deepfake videos generated using the audio from the real videos in the VidTIMIT dataset to manipulate the real videos from the same dataset.
-    |-- **Diff2Lip** # 202 Lip-syncing deepfake videos generated using Diff2Lip model.
-    |-- **Video_Retalking** # 202 Lip-syncing deepfake videos generated using Video_Retalking model.
-    |-- **Wav2lip** # 202 Lip-syncing deepfake videos generated using Wav2lip model.
-    |-- **Wav2lip_GAN** # 202 Lip-syncing deepfake videos generated using Wav2lip_GAN model.
-    |-- **IP_LAP** # 202 Lip-syncing deepfake videos generated using IP_LAP model.
-  |-- **FakeVideo-RealAudio** # 1010 Lip-syncing deepfake videos generated using the real audio from the LRS2 dataset to manipulate the real videos from the VidTIMIT dataset.
-  |-- **FakeVideo-FakeAudio** # 1010 Lip-syncing deepfake videos generated using the AI generated(fake) audio from the LibriSeVoc dataset to manipulate the real videos from the VidTIMIT dataset.
-|-- **LipSyncTimit_compression23** # 3,232 compressed videos with constant rate factors of 23
-|-- **LipSyncTimit_compression40** # 3,232 compressed videos with constant rate factors of 40
+LipSyncTimit Dataset
+|-- Original Size # 3,232 videos of original size
+  |-- RealVideo # 202 Real videos from VidTIMIT dataset
+  |-- FakeVideo-OriginalAudio # 1010 Lip-syncing deepfake videos generated using the audio from the real videos in the VidTIMIT dataset to manipulate the real videos from the same dataset.
+    |-- Diff2Lip # 202 Lip-syncing deepfake videos generated using Diff2Lip model.
+    |-- Video_Retalking # 202 Lip-syncing deepfake videos generated using Video_Retalking model.
+    |-- Wav2lip # 202 Lip-syncing deepfake videos generated using Wav2lip model.
+    |-- Wav2lip_GAN # 202 Lip-syncing deepfake videos generated using Wav2lip_GAN model.
+    |-- IP_LAP # 202 Lip-syncing deepfake videos generated using IP_LAP model.
+  |-- FakeVideo-RealAudio # 1010 Lip-syncing deepfake videos generated using the real audio from the LRS2 dataset to manipulate the real videos from the VidTIMIT dataset.
+  |-- FakeVideo-FakeAudio # 1010 Lip-syncing deepfake videos generated using the AI generated(fake) audio from the LibriSeVoc dataset to manipulate the real videos from the VidTIMIT dataset.
+|-- LipSyncTimit_compression23 # 3,232 compressed videos with constant rate factors of 23
+|-- LipSyncTimit_compression40 # 3,232 compressed videos with constant rate factors of 40
 ```
 
 # Prerequisites
