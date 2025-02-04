@@ -1,5 +1,4 @@
 # Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies 
-# LipSyncTimit Dataset : A Multimodal Dataset for LipSyncing DeepFake Forensics
 Soumyya Kanti Datta, Shan Jia, Siwei Lyu
 
 
@@ -9,7 +8,7 @@ Deepfakes are AI-generated media in which the original content is digitally alte
 <img src='./Images/LIPINCV2.png' width=900>
 
 
-
+# LipSyncTimit Dataset : A Multimodal Dataset for LipSyncing DeepFake Forensics
 
 
 # Prerequisites
