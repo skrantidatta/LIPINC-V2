@@ -42,7 +42,7 @@ The LipSyncTIMIT dataset is for non-commercial research purposes only. All origi
 - `Python 3.10` 
 - Install necessary packages using `pip install -r requirements.txt`.
 - Download the dlib’s pre-trained facial landmark detector from [here](https://drive.google.com/file/d/1-Uc2rH1tiKZEh9NwmgmBFZT_6xDvGBSD/view?usp=sharing) and put it in the same folder as demo.py.
-- The model weights are present in the checkpoints folder.
+- The LIPINC-V2 model weights are located in the ./checkpoints folder.
 - The input video should have the face of **only 1 subject** in the entire video.
 - The input video should have **1 face per frame**.
 
