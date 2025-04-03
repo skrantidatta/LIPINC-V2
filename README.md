@@ -62,7 +62,7 @@ Please cite our paper in your publications if you use our LIPINC-V2 Detection mo
 @article{datta2025Detecting,
   title={Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies},
   author={Datta, Soumyya Kanti and Jia, Shan and Lyu, Siwei},
-  url ={https://github.com/skrantidatta/LIPINC-V2},
+  journal={arXiv preprint arXiv:2504.01470},
   year={2025}
 }
 ```
