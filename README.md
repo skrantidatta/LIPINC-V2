@@ -59,12 +59,13 @@ The demo video is saved (by default) as `{input_video_name}_demo.mp4`.
 # Citation
 Please cite our paper in your publications if you use our LIPINC-V2 Detection model or our LipSyncTimit dataset in your research:
 ```
-@article{datta2025Detecting,
+@article{datta2025detecting,
   title={Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies},
   author={Datta, Soumyya Kanti and Jia, Shan and Lyu, Siwei},
   journal={arXiv preprint arXiv:2504.01470},
   year={2025}
 }
+
 ```
 # Reference
 [LIPINC] S K Datta, S Jia, and S Lyu, “Exposing lip-syncing deepfakes from mouth inconsistencies,” 2024 IEEE International Conference on
